@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE",
-  "website": "https://github.com/MR-INVISIBLEBOY/LEGENDBOT-INVISIBLE",
+  "repository": "https://github.com/kajalpr/LEGENDBOT-INVISIBLE",
+  "website": "https://github.com/kajalpr/LEGENDBOT-INVISIBLE",
   "success_url": "https://t.me/Invisible_LegendBot",
   "env": {
     "ENV": {
